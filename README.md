@@ -1,4 +1,4 @@
-# Hi, I'm Jatin 👋 
+# Hi, I'm Jatin Kumar 👋 
 
 **Full Stack Developer | SaaS Builder | Freelancer**
 
